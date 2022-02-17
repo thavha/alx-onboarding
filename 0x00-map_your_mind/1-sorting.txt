@@ -1,0 +1,22 @@
+this program takes 3 numbers as input and compares them to sort them and return the numbers sorted
+
+take 3 numbers as input
+create an empty list to store the sorted numbers
+IF all 3 numbers are equal return the same input in that order
+
+ELSE take number1 and compare to number2 and number3 
+	IF number1 is higher than both number2 and number3, number1 will be in the first position
+		take the remaining 2 numbers number2 and number3 and compare them
+		IF number2 is higher or equal to number3 
+			put the numbers to sorted list in the following order [number1,number2,number3]
+		ELSE  put the numbers to sorted list in the following order [number1,number3,number2]
+	ELSE-IF  number1 is higher than number2 only
+		put the numbers to sorted list in the following order [number3,number1,number2]
+	ELSE-IF number1 is higher than number3
+		put the numbers to sorted list in the following order [number2,number1,number3]
+	ELSE take number2 and compare to number3
+		IF number2 is higher or equal to number3:
+			put the numbers to sorted list in the following order [number2,number3,number1]
+		ELSE put the numbers to sorted list in the following order [number3,number2,number1]
+return sorted 
+end 
