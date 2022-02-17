@@ -1,0 +1,5 @@
+1)set the initial value of sum to 0
+2)take each input numbers one at a time
+3)	square the number
+4) 	add the results to the value of sum
+5)return sum
