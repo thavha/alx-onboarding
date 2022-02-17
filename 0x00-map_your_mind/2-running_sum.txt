@@ -1,0 +1,6 @@
+This program will take input numbers form the user, add the numbers until a negative number is encountered or until all numbers has been added
+input numbers from the use
+create a variable sum to store the sum of the numbers
+take a number from input numbers from the user
+	IF number is greter or equal to 0, then add that number to the sum
+	ELSE number is negative display the value of sum and end the programm
