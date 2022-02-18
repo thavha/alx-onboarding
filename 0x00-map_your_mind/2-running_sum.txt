@@ -4,3 +4,6 @@ create a variable sum to store the sum of the numbers
 take a number from input numbers from the user
 	IF number is greter or equal to 0, then add that number to the sum
 	ELSE number is negative display the value of sum and end the programm
+
+
+link https://drive.google.com/file/d/1_tHEqevIZ8JufZbph0sISh04U2-rAWQ-/view?usp=sharing

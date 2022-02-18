@@ -20,3 +20,6 @@ ELSE take number1 and compare to number2 and number3
 		ELSE put the numbers to sorted list in the following order [number3,number2,number1]
 return sorted 
 end 
+
+
+link https://drive.google.com/file/d/1yxi3hMKhPW0L9myLGX-5JhPkPOUK0aH1/view?usp=sharing
